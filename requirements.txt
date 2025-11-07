@@ -1,0 +1,29 @@
+# Streamlit core
+streamlit==1.50.0
+streamlit-webrtc==0.63.11
+
+# Audio / media
+av==14.0.1
+soundfile==0.12.1
+pydub==0.25.1
+
+# Core libs
+numpy==1.26.4
+pillow==10.3.0
+
+# OpenAI
+openai==2.7.1
+
+# Streamlit deps
+altair==5.5.0
+pandas==2.3.3
+protobuf==6.33.0
+pyarrow==21.0.0
+requests==2.32.3
+tenacity==9.1.0
+toml==0.10.2
+typing_extensions==4.12.2
+watchdog==6.0.0
+gitpython==3.1.44
+pydeck==0.9.1
+tornado==6.5.2
